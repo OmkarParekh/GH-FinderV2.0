@@ -1,0 +1,52 @@
+.card{
+     width: 25%;
+     position: relative;
+     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#Bodyy{
+     width: 90%;
+     margin-top: -3%;
+     position: relative;
+   
+}
+#tab{
+     width: 100%;
+     position: relative;
+}
+#rep{
+     text-indent: 50%;
+     position: relative;
+}
+.btn{
+     border-color: transparent;
+     position: relative;
+}
+#butt{
+     width: 50%;
+     position: relative;
+}
+#h3{
+     width: 100%;
+     position: relative;
+}
+#in{
+     position: relative;
+}
+
+@media only screen and (max-width: 600px) {
+     .card{
+          width: 50%;
+          position: relative;
+          box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+     }
+     #Bodyy{
+          width: 90%;
+          margin-top: -7%;
+          position: relative;
+        
+     }
+     #butt{
+          width: 100%;
+          position: relative;
+     }
+   }
