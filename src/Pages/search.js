@@ -67,7 +67,7 @@ export default class search extends Component {
 
                <p class="card-text">{data.bio}</p>
                <p class="card-title">
-               Followers:{data.followers} &ensp;  &ensp;  &ensp;Followers:{data.following}
+               Followers:{data.followers} &ensp;  &ensp;  &ensp;Following:{data.following}
                </p>
 
                </div>
@@ -93,7 +93,7 @@ export default class search extends Component {
                <th>
                </th>
                <th class="th-lg">
-               Repository Name
+               Repo Name
                 <i class="fas fa-sort ml-1"></i>
               
                </th>
